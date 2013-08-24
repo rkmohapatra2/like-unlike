@@ -18,9 +18,7 @@
 <h4>
 <a href="http://pinoysourcecode.blogspot.com">Click here to view my article </a>
 </h4>
-<?php 
-   include('database/config.php');
-   ?>
+
  
   
   <?php if(!isset($_SESSION['email'])){ ?>
